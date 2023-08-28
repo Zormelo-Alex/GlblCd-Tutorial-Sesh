@@ -1,4 +1,4 @@
-![FrontPage-Display-image](https://avatars.githubusercontent.com/u/30696523?s=200&v=4)
+<img align="center" src="https://avatars.githubusercontent.com/u/30696523?s=200&v=4" alt="DOM"/>
 
 <h1 align="center">Global Code Training</h1>
 <h3 align="center">HTU - Ghana, Bootcamp session 2023</h3>
