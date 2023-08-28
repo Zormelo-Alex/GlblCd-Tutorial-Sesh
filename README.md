@@ -1,6 +1,6 @@
 ![FrontPage-Display-image](https://avatars.githubusercontent.com/u/30696523?s=200&v=4)
 
-<h1 align="center">Global Code Training</h1>
+<h1>Global Code Training</h1>
 <h3 align="center">HTU - Ghana, Bootcamp session 2023</h3>
 
 <h3 align="center">IOT - Pyhton</h3>
