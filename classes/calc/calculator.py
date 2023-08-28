@@ -13,9 +13,7 @@ class Calculator:
         return self.num1 * self.num2
     
     def divide(self):
-        return self.num1 + self.num2
+        # if(self.num2 == 0):
+        #     return "Invalid parameter reading second value \nValue can't be zero"
+        return self.num1 / self.num2
     
-
-firstTrial = Calculator(24, 72)
-
-print(firstTrial.num1)
