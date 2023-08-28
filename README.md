@@ -11,7 +11,7 @@
 <p>This bootcamp wast ultimately geared to build we the participants in the field of IOT and understanding how to build our own project</p>
 <p>It was fun, thrilling, educative and most importantly very neccessary in my opinion</p>
 
-<h5 align="center">Topics Covered</h5>
+<h3 align="center">Topics Covered</h3>
 <ul>
 <li>An Introduction to Raspberry Pi</li>
 <li>Linux Fundamentals</li>
@@ -22,7 +22,7 @@
 </ul>
 
 
-<h2 align="center">Find Global Code</h2>
+<h3 align="center">Find Global Code</h3>
 <ul>
 <li>Global code website - <a href="https://globalcode.org.uk/">globalcode.org.uk</a></li>
 <li>Global code on gitHub - <a href="https://github.com/glblcd/">glblcd</a></li>
