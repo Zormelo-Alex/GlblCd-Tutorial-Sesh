@@ -1,3 +1,0 @@
-## Global Code Training - Flask
-> Guess the tutor....
-- Tbello!!! (*_-)
